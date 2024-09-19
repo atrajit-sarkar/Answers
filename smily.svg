@@ -1,0 +1,13 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle for the face -->
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="yellow"/>
+
+  <!-- Left eye -->
+  <circle cx="35" cy="40" r="5" fill="black"/>
+
+  <!-- Right eye -->
+  <circle cx="65" cy="40" r="5" fill="black"/>
+
+  <!-- Smile -->
+  <path d="M 35 60 Q 50 75, 65 60" stroke="black" stroke-width="2" fill="transparent"/>
+</svg>

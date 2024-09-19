@@ -1,0 +1,16 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle for the face -->
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="yellow"/>
+
+  <!-- Left sunglass lens -->
+  <rect x="25" y="35" width="20" height="10" fill="black" rx="2" ry="2"/>
+
+  <!-- Right sunglass lens -->
+  <rect x="55" y="35" width="20" height="10" fill="black" rx="2" ry="2"/>
+
+  <!-- Sunglass bridge -->
+  <rect x="45" y="35" width="10" height="3" fill="black"/>
+
+  <!-- Smile -->
+  <path d="M 30 65 Q 50 80, 70 65" stroke="black" stroke-width="3" fill="transparent"/>
+</svg>
